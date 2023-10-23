@@ -1,0 +1,820 @@
+{
+    "dup_type": "lite",
+    "created": "2023-07-24 10:50:47",
+    "version_dup": "1.5.5.1",
+    "version_wp": "6.2.2",
+    "version_db": "5.5.68",
+    "version_php": "7.4.33",
+    "version_os": "Linux",
+    "blogname": "M\u1eabu web m\u1ef9 ph\u1ea9m",
+    "exportOnlyDB": 0,
+    "secure_on": false,
+    "secure_pass": "$2a$08$fDre0ltOtfJdCbPmc7wu7uxDk260F9p2PBYIs3CI\/Mr3HGSGFsrje",
+    "dbhost": null,
+    "dbname": null,
+    "dbuser": null,
+    "cpnl_host": null,
+    "cpnl_user": null,
+    "cpnl_pass": null,
+    "cpnl_enable": null,
+    "wp_tableprefix": "wp_",
+    "mu_mode": 0,
+    "mu_generation": 0,
+    "mu_siteadmins": [
+        "admin"
+    ],
+    "subsites": [
+        {
+            "id": 1,
+            "domain": "mypham.hatinhgroup.com",
+            "path": "\/",
+            "blogname": "M\u1eabu web m\u1ef9 ph\u1ea9m",
+            "blog_prefix": "wp_",
+            "filteredTables": [],
+            "adminUsers": [
+                {
+                    "ID": "1",
+                    "user_login": "adminqt",
+                    "id": "1"
+                }
+            ],
+            "fullHomeUrl": "https:\/\/mypham.hatinhgroup.com",
+            "fullSiteUrl": "https:\/\/mypham.hatinhgroup.com",
+            "uploadPath": "wp-content\/uploads",
+            "fullUploadPath": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/uploads",
+            "fullUploadSafePath": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/uploads",
+            "fullUploadUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content\/uploads",
+            "filteredPaths": []
+        }
+    ],
+    "main_site_id": 1,
+    "mu_is_filtered": false,
+    "license_limit": 0,
+    "license_type": 0,
+    "dbInfo": {
+        "buildMode": "MYSQLDUMP",
+        "charSetList": [
+            "utf8mb4"
+        ],
+        "collationList": [
+            "utf8mb4_general_ci"
+        ],
+        "engineList": [
+            "InnoDB"
+        ],
+        "isTablesUpperCase": 0,
+        "isNameUpperCase": 0,
+        "name": "data_mypham",
+        "tablesBaseCount": 59,
+        "tablesFinalCount": 59,
+        "muFilteredTableCount": 0,
+        "tablesRowCount": 5647,
+        "tablesSizeOnDisk": 6520832,
+        "tablesList": {
+            "wp_actionscheduler_actions": {
+                "inaccurateRows": 70,
+                "insertedRows": 73,
+                "size": 180224
+            },
+            "wp_actionscheduler_claims": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_actionscheduler_groups": {
+                "inaccurateRows": 8,
+                "insertedRows": 8,
+                "size": 32768
+            },
+            "wp_actionscheduler_logs": {
+                "inaccurateRows": 137,
+                "insertedRows": 220,
+                "size": 81920
+            },
+            "wp_berocket_termmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_braapf_product_stock_status_parent": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 32768
+            },
+            "wp_braapf_product_variation_attributes": {
+                "inaccurateRows": 6,
+                "insertedRows": 6,
+                "size": 65536
+            },
+            "wp_braapf_term_taxonomy_hierarchical": {
+                "inaccurateRows": 58,
+                "insertedRows": 58,
+                "size": 65536
+            },
+            "wp_braapf_variable_attributes": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 49152
+            },
+            "wp_commentmeta": {
+                "inaccurateRows": 30,
+                "insertedRows": 30,
+                "size": 49152
+            },
+            "wp_comments": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 114688
+            },
+            "wp_duplicator_packages": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 32768
+            },
+            "wp_links": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_options": {
+                "inaccurateRows": 1946,
+                "insertedRows": 831,
+                "size": 1376256
+            },
+            "wp_postmeta": {
+                "inaccurateRows": 1450,
+                "insertedRows": 1866,
+                "size": 589824
+            },
+            "wp_posts": {
+                "inaccurateRows": 466,
+                "insertedRows": 561,
+                "size": 1720320
+            },
+            "wp_rank_math_analytics_gsc": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_rank_math_analytics_objects": {
+                "inaccurateRows": 41,
+                "insertedRows": 41,
+                "size": 32768
+            },
+            "wp_rank_math_internal_links": {
+                "inaccurateRows": 324,
+                "insertedRows": 317,
+                "size": 81920
+            },
+            "wp_rank_math_internal_meta": {
+                "inaccurateRows": 43,
+                "insertedRows": 43,
+                "size": 16384
+            },
+            "wp_termmeta": {
+                "inaccurateRows": 207,
+                "insertedRows": 207,
+                "size": 49152
+            },
+            "wp_terms": {
+                "inaccurateRows": 125,
+                "insertedRows": 125,
+                "size": 49152
+            },
+            "wp_term_relationships": {
+                "inaccurateRows": 162,
+                "insertedRows": 162,
+                "size": 32768
+            },
+            "wp_term_taxonomy": {
+                "inaccurateRows": 125,
+                "insertedRows": 125,
+                "size": 49152
+            },
+            "wp_usermeta": {
+                "inaccurateRows": 94,
+                "insertedRows": 94,
+                "size": 49152
+            },
+            "wp_users": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 65536
+            },
+            "wp_wc_admin_notes": {
+                "inaccurateRows": 71,
+                "insertedRows": 94,
+                "size": 81920
+            },
+            "wp_wc_admin_note_actions": {
+                "inaccurateRows": 124,
+                "insertedRows": 123,
+                "size": 81920
+            },
+            "wp_wc_category_lookup": {
+                "inaccurateRows": 58,
+                "insertedRows": 58,
+                "size": 16384
+            },
+            "wp_wc_customer_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_download_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_coupon_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_order_product_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_wc_order_stats": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 65536
+            },
+            "wp_wc_order_tax_lookup": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wc_product_attributes_lookup": {
+                "inaccurateRows": 24,
+                "insertedRows": 24,
+                "size": 32768
+            },
+            "wp_wc_product_download_directories": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_product_meta_lookup": {
+                "inaccurateRows": 14,
+                "insertedRows": 14,
+                "size": 114688
+            },
+            "wp_wc_rate_limits": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_wc_reserved_stock": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_wc_tax_rate_classes": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_wc_webhooks": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_api_keys": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_attribute_taxonomies": {
+                "inaccurateRows": 3,
+                "insertedRows": 3,
+                "size": 32768
+            },
+            "wp_woocommerce_downloadable_product_permissions": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_log": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_order_itemmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_order_items": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_payment_tokenmeta": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_payment_tokens": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 32768
+            },
+            "wp_woocommerce_sessions": {
+                "inaccurateRows": 2,
+                "insertedRows": 2,
+                "size": 32768
+            },
+            "wp_woocommerce_shipping_zones": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_shipping_zone_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_woocommerce_shipping_zone_methods": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 16384
+            },
+            "wp_woocommerce_tax_rates": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 81920
+            },
+            "wp_woocommerce_tax_rate_locations": {
+                "inaccurateRows": 0,
+                "insertedRows": 0,
+                "size": 49152
+            },
+            "wp_wpforms_tasks_meta": {
+                "inaccurateRows": 1,
+                "insertedRows": 1,
+                "size": 16384
+            },
+            "wp_yith_wcwl": {
+                "inaccurateRows": 17,
+                "insertedRows": 17,
+                "size": 32768
+            },
+            "wp_yith_wcwl_lists": {
+                "inaccurateRows": 4,
+                "insertedRows": 4,
+                "size": 49152
+            }
+        },
+        "varLowerCaseTables": "0",
+        "dbEngine": "MariaDB",
+        "version": "5.5.68",
+        "versionComment": "MariaDB Server",
+        "viewCount": 0,
+        "procCount": 0,
+        "funcCount": 0,
+        "triggerList": []
+    },
+    "packInfo": {
+        "packageId": 2,
+        "packageName": "20230724_mauwebmypham",
+        "packageHash": "6a6c8a1-24105047",
+        "secondaryHash": "a92e3a7-24105047"
+    },
+    "fileInfo": {
+        "dirCount": 2245,
+        "fileCount": 13871,
+        "size": 78278655
+    },
+    "wpInfo": {
+        "version": "6.2.2",
+        "is_multisite": false,
+        "network_id": 1,
+        "targetRoot": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+        "targetPaths": [
+            "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com"
+        ],
+        "adminUsers": [
+            {
+                "ID": "1",
+                "user_login": "adminqt",
+                "id": "1"
+            }
+        ],
+        "configs": {
+            "defines": {
+                "ABSPATH": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/",
+                    "inWpConfig": true
+                },
+                "DB_CHARSET": {
+                    "value": "utf8mb4",
+                    "inWpConfig": true
+                },
+                "DB_COLLATE": {
+                    "value": "",
+                    "inWpConfig": true
+                },
+                "AUTH_KEY": {
+                    "value": "xg%6.ynY;c|ZT2RbI!kaqY-Ea-pMiR@RoPbPj>kB6Ia)IeH&(W+;C\/eIUwEP#|Nd",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_KEY": {
+                    "value": "TEt+na5-@oKMOznCxiXgb[|y^x{-vN&?geA:3ryVJ*$C~cf|eB#cbI0*[D!mk:(y",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_KEY": {
+                    "value": "W]i{+Bf6}G&C8]Ig?<7|IV\/iEP$4.t{w(\/-gjjSn8&`;4t<RE+udL|Xv-~FZwUB&",
+                    "inWpConfig": true
+                },
+                "NONCE_KEY": {
+                    "value": "IR5)(kMiW vy)k5RVLC~<Yub@:WHKoGgn-2h6^U $=[0;~.0AeEcIZFS LKxr.&;",
+                    "inWpConfig": true
+                },
+                "AUTH_SALT": {
+                    "value": "Uj#JM&O:=b_Z;)A2\/jKzM^]wHy6$+ibIQ?Uf^:\/Q]f~FLbY u|tM)J7HPKm|uh>a",
+                    "inWpConfig": true
+                },
+                "SECURE_AUTH_SALT": {
+                    "value": "0K-.k\/G#4K:$=#}Z&?R#x+v6Y0UD9C0\/xQ-VTDOK3#FyiK*Hp+[.HMp!{r\/d*[ud",
+                    "inWpConfig": true
+                },
+                "LOGGED_IN_SALT": {
+                    "value": "+.]??Jx3(sudVnU.G#k0Hu[Dfsw<$]IH:J1mz]WfC50F)Ak1)zH;3<~fXyI2_)^Y",
+                    "inWpConfig": true
+                },
+                "NONCE_SALT": {
+                    "value": "T%6Vx(N97}fE3lS}wTLK;XK0I#>=ec(uEx26M9bB:j2tHE-*XVzW\/hs~`[5|\/>_r",
+                    "inWpConfig": true
+                },
+                "WP_SITEURL": {
+                    "value": "https:\/\/mypham.hatinhgroup.com\/",
+                    "inWpConfig": true
+                },
+                "WP_CONTENT_DIR": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_CONTENT_URL": {
+                    "value": "https:\/\/mypham.hatinhgroup.com\/wp-content",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_DIR": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "WP_PLUGIN_URL": {
+                    "value": "https:\/\/mypham.hatinhgroup.com\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "PLUGINDIR": {
+                    "value": "wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "AUTOSAVE_INTERVAL": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "WP_POST_REVISIONS": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "COOKIE_DOMAIN": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "MULTISITE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG": {
+                    "value": false,
+                    "inWpConfig": true
+                },
+                "SCRIPT_DEBUG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_LOG": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_DEBUG_DISPLAY": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WP_MEMORY_LIMIT": {
+                    "value": "40M",
+                    "inWpConfig": false
+                },
+                "WP_MAX_MEMORY_LIMIT": {
+                    "value": "256M",
+                    "inWpConfig": false
+                },
+                "WP_CACHE": {
+                    "value": false,
+                    "inWpConfig": false
+                },
+                "WP_LANG_DIR": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/languages",
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_DIR": {
+                    "value": 493,
+                    "inWpConfig": false
+                },
+                "FS_CHMOD_FILE": {
+                    "value": 420,
+                    "inWpConfig": false
+                },
+                "WP_CRON_LOCK_TIMEOUT": {
+                    "value": 60,
+                    "inWpConfig": false
+                },
+                "COOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "SITECOOKIEPATH": {
+                    "value": "\/",
+                    "inWpConfig": false
+                },
+                "ADMIN_COOKIE_PATH": {
+                    "value": "\/wp-admin",
+                    "inWpConfig": false
+                },
+                "PLUGINS_COOKIE_PATH": {
+                    "value": "\/wp-content\/plugins",
+                    "inWpConfig": false
+                },
+                "TEMPLATEPATH": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/themes\/flatsome",
+                    "inWpConfig": false
+                },
+                "STYLESHEETPATH": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/themes\/cosmetics",
+                    "inWpConfig": false
+                },
+                "EMPTY_TRASH_DAYS": {
+                    "value": 30,
+                    "inWpConfig": false
+                },
+                "FORCE_SSL_ADMIN": {
+                    "value": true,
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_DIR": {
+                    "value": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "WPMU_PLUGIN_URL": {
+                    "value": "https:\/\/mypham.hatinhgroup.com\/wp-content\/mu-plugins",
+                    "inWpConfig": false
+                },
+                "MUPLUGINDIR": {
+                    "value": "wp-content\/mu-plugins",
+                    "inWpConfig": false
+                }
+            },
+            "realValues": {
+                "siteUrl": "https:\/\/mypham.hatinhgroup.com",
+                "homeUrl": "https:\/\/mypham.hatinhgroup.com",
+                "loginUrl": "https:\/\/mypham.hatinhgroup.com\/wp-login.php",
+                "contentUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content",
+                "uploadBaseUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content\/uploads",
+                "pluginsUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content\/plugins",
+                "mupluginsUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content\/mu-plugins",
+                "themesUrl": "https:\/\/mypham.hatinhgroup.com\/wp-content\/themes",
+                "originalPaths": {
+                    "home": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "abs": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "wpconfig": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "wpcontent": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content",
+                    "uploads": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/uploads",
+                    "plugins": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/plugins",
+                    "muplugins": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/mu-plugins",
+                    "themes": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/themes"
+                },
+                "archivePaths": {
+                    "home": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "abs": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "wpconfig": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com",
+                    "wpcontent": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content",
+                    "uploads": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/uploads",
+                    "plugins": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/plugins",
+                    "muplugins": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/mu-plugins",
+                    "themes": "\/var\/www\/vhosts\/hatinhgroup.com\/mypham.hatinhgroup.com\/wp-content\/themes"
+                }
+            }
+        },
+        "plugins": {
+            "woocommerce-ajax-filters\/woocommerce-filters.php": {
+                "slug": "woocommerce-ajax-filters\/woocommerce-filters.php",
+                "name": "Advanced AJAX Product Filters for WooCommerce",
+                "version": "1.6.4.4",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/woocommerce-ajax-filters\/",
+                "author": "BeRocket",
+                "authorURI": "https:\/\/berocket.com?utm_source=free_plugin&utm_medium=plugins&utm_campaign=ajax_filters",
+                "description": "Unlimited AJAX products filters to make your shop perfect",
+                "title": "Advanced AJAX Product Filters for WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "advanced-custom-fields\/acf.php": {
+                "slug": "advanced-custom-fields\/acf.php",
+                "name": "Advanced Custom Fields",
+                "version": "6.1.7",
+                "pluginURI": "https:\/\/www.advancedcustomfields.com",
+                "author": "WP Engine",
+                "authorURI": "https:\/\/wpengine.com\/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=plugin_directory&utm_content=advanced_custom_fields",
+                "description": "Customize WordPress with powerful, professional and intuitive fields.",
+                "title": "Advanced Custom Fields",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "contact-form-7\/wp-contact-form-7.php": {
+                "slug": "contact-form-7\/wp-contact-form-7.php",
+                "name": "Contact Form 7",
+                "version": "5.7.7",
+                "pluginURI": "https:\/\/contactform7.com\/",
+                "author": "Takayuki Miyoshi",
+                "authorURI": "https:\/\/ideasilo.wordpress.com\/",
+                "description": "Just another contact form plugin. Simple but flexible.",
+                "title": "Contact Form 7",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "devvn-woocommerce-reviews\/devvn-woocommerce-reviews.php": {
+                "slug": "devvn-woocommerce-reviews\/devvn-woocommerce-reviews.php",
+                "name": "DevVN Woocommerce Reviews",
+                "version": "1.0.7",
+                "pluginURI": "https:\/\/levantoan.com\/san-pham\/devvn-woocommerce-reviews\/",
+                "author": "L\u00ea V\u0103n To\u1ea3n",
+                "authorURI": "https:\/\/levantoan.com\/",
+                "description": "Thay \u0111\u1ed5i giao di\u1ec7n ph\u1ea7n \u0111\u00e1nh gi\u00e1 v\u00e0 th\u00eam ph\u1ea7n th\u1ea3o lu\u1eadn cho chi ti\u1ebft s\u1ea3n ph\u1ea9m trong Woocommerce",
+                "title": "DevVN Woocommerce Reviews",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "duplicator\/duplicator.php": {
+                "slug": "duplicator\/duplicator.php",
+                "name": "Duplicator",
+                "version": "1.5.5.1",
+                "pluginURI": "https:\/\/duplicator.com\/",
+                "author": "Duplicator",
+                "authorURI": "https:\/\/duplicator.com\/",
+                "description": "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly.",
+                "title": "Duplicator",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "perfect-woocommerce-brands\/perfect-woocommerce-brands.php": {
+                "slug": "perfect-woocommerce-brands\/perfect-woocommerce-brands.php",
+                "name": "Perfect Brands WooCommerce",
+                "version": "3.2.1",
+                "pluginURI": "https:\/\/quadlayers.com\/portfolio\/perfect-woocommerce-brands\/",
+                "author": "QuadLayers",
+                "authorURI": "https:\/\/quadlayers.com",
+                "description": "Perfect WooCommerce Brands allows you to show product brands in your WooCommerce based store.",
+                "title": "Perfect Brands WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "wcpas-product-attributes-shortcode\/wcpas-product-attributes-shortcode.php": {
+                "slug": "wcpas-product-attributes-shortcode\/wcpas-product-attributes-shortcode.php",
+                "name": "Product Attributes Shortcode",
+                "version": "1.5.0",
+                "pluginURI": "https:\/\/99w.co.uk",
+                "author": "99w",
+                "authorURI": "https:\/\/profiles.wordpress.org\/ninetyninew\/",
+                "description": "WooCommerce Extension by 99w.",
+                "title": "Product Attributes Shortcode",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "seo-by-rank-math\/rank-math.php": {
+                "slug": "seo-by-rank-math\/rank-math.php",
+                "name": "Rank Math SEO",
+                "version": "1.0.119.1",
+                "pluginURI": "https:\/\/rankmath.com\/",
+                "author": "Rank Math",
+                "authorURI": "https:\/\/rankmath.com\/?utm_source=Plugin&utm_medium=Readme%20Author%20URI&utm_campaign=WP",
+                "description": "Rank Math is a revolutionary SEO product that combines the features of many SEO tools and lets you multiply your traffic in the easiest way possible.",
+                "title": "Rank Math SEO",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "safe-svg\/safe-svg.php": {
+                "slug": "safe-svg\/safe-svg.php",
+                "name": "Safe SVG",
+                "version": "2.1.1",
+                "pluginURI": "https:\/\/wordpress.org\/plugins\/safe-svg\/",
+                "author": "10up",
+                "authorURI": "https:\/\/10up.com",
+                "description": "Enable SVG uploads and sanitize them to stop XML\/SVG vulnerabilities in your WordPress website",
+                "title": "Safe SVG",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "woocommerce\/woocommerce.php": {
+                "slug": "woocommerce\/woocommerce.php",
+                "name": "WooCommerce",
+                "version": "7.9.0",
+                "pluginURI": "https:\/\/woocommerce.com\/",
+                "author": "Automattic",
+                "authorURI": "https:\/\/woocommerce.com",
+                "description": "An eCommerce toolkit that helps you sell anything. Beautifully.",
+                "title": "WooCommerce",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            },
+            "yith-woocommerce-wishlist\/init.php": {
+                "slug": "yith-woocommerce-wishlist\/init.php",
+                "name": "YITH WooCommerce Wishlist",
+                "version": "3.23.0",
+                "pluginURI": "https:\/\/yithemes.com\/themes\/plugins\/yith-woocommerce-wishlist\/",
+                "author": "YITH",
+                "authorURI": "https:\/\/yithemes.com\/",
+                "description": "<code><strong>YITH WooCommerce Wishlist<\/strong><\/code> gives your users the possibility to create, fill, manage and share their wishlists allowing you to analyze their interests and needs to improve your marketing strategies. <a href=\"https:\/\/yithemes.com\/\" target=\"_blank\">Get more plugins for your e-commerce on <strong>YITH<\/strong><\/a>",
+                "title": "YITH WooCommerce Wishlist",
+                "networkActive": false,
+                "active": true,
+                "mustUse": false,
+                "dropIns": false
+            }
+        },
+        "themes": {
+            "cosmetics": {
+                "slug": "cosmetics",
+                "themeName": "Cosmetics",
+                "version": "3.0",
+                "themeURI": "",
+                "parentTheme": "flatsome",
+                "template": "flatsome",
+                "stylesheet": "cosmetics",
+                "description": "This is a child theme for Flatsome Theme",
+                "author": "UX Themes",
+                "authorURI": "",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": true,
+                "defaultTheme": false
+            },
+            "flatsome": {
+                "slug": "flatsome",
+                "themeName": "Flatsome",
+                "version": "3.17.4",
+                "themeURI": "http:\/\/flatsome.uxthemes.com",
+                "parentTheme": false,
+                "template": "flatsome",
+                "stylesheet": "flatsome",
+                "description": "Multi-Purpose Responsive WooCommerce Theme",
+                "author": "UX-Themes",
+                "authorURI": "https:\/\/uxthemes.com",
+                "tags": [],
+                "isAllowed": true,
+                "isActive": false,
+                "defaultTheme": false
+            }
+        }
+    },
+    "opts_delete": "[\"duplicator_ui_view_state\",\"duplicator_package_active\",\"duplicator_settings\",\"duplicator_is_pro_enable_notice_dismissed\"]",
+    "brand": {
+        "name": "Duplicator",
+        "isDefault": true,
+        "logo": "<i class=\"fa fa-bolt fa-sm\"><\/i> Duplicator",
+        "enabled": false,
+        "style": []
+    },
+    "overwriteInstallerParams": {
+        "blogname": {
+            "value": "M\u1eabu web m\u1ef9 ph\u1ea9m"
+        }
+    },
+    "installer_base_name": "installer.php.bak",
+    "installer_backup_name": "20230724_mauwebmypham_6a6c8a1bd21c010c8032_20230724105047_installer-backup.php",
+    "package_name": "20230724_mauwebmypham_6a6c8a1bd21c010c8032_20230724105047_archive.zip",
+    "package_hash": "6a6c8a1-24105047",
+    "package_notes": ""
+}
